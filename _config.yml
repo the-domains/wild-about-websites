@@ -1,4 +1,5 @@
 layout_spectrum: 0.1833022
+typography_spectrum: 0.47738
 color:
   saturation: 0.4151867
   lightness: 0.4984485
@@ -10,5 +11,4 @@ color:
     - '#DC4248'
     - '#070508'
   rhythmicContrast: 0.8966224
-typography_spectrum: 0.47738
 name: Wild About Websites
