@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Wild About Websites]]></title>
+        <description><![CDATA[Wild About Websites]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 16:48:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test post from home page]]></title>
+            <description><![CDATA[<article><h1>Test post from home page</h1><p>The key to that success has been a unique mix of design skill, technical capability, and strategic marketing experience, which means that: I know how to balance artistic design and flow that works, I'm up to speed with the latest technological developments (you want to talk HTML5 & CSS3, I'd be happy to!), and I know all the tricks of the trade - the robust, scalable and reliable marketing methods to get people to your website, and more importantly how to shepherd them to the right set of actions when they get there.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0fd9ed6130d525d1d4ab5e44d2e20f99f5d5e62.png"></article>]]></description>
+            <link>http://wildaboutwebsites.com/</link>
+            <guid isPermaLink="false">9cc10242-b083-4ae7-ac75-a92f5c14a019</guid>
+            <pubDate>Sat, 23 Apr 2016 16:48:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
