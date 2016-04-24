@@ -34,8 +34,8 @@ color:
     - '#3FBCF3'
     - '#63C8F5'
     - '#9EDAF8'
-  brandStrength: 0.1296642
+  brandStrength: 0.8125
   lightness: 0.2434701
-  saturation: 0.7625933
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
