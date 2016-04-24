@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[A thing]]></title>
-        <description><![CDATA[A thing]]></description>
+        <title><![CDATA[Wild About Websites]]></title>
+        <description><![CDATA[Wild About Websites]]></description>
         <link>https://thegrid.ai/wild-about-websites/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 08:16:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 15:17:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wild-about-websites/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Wild About Websites - Website Coaching & Mentoring]]></title>
@@ -12,6 +12,13 @@
             <link>http://wildaboutwebsites.com/website-coaching-mentoring/</link>
             <guid isPermaLink="false">9ba5aacb-bae9-43c8-a140-cee3789f9109</guid>
             <pubDate>Sun, 24 Apr 2016 08:15:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ooh look it's a griddy thang]]></title>
+            <description><![CDATA[<article><h1>Ooh look it's a griddy thang</h1><p>Your Grid Beta activation invite is here! We've prepared a few simple tips and tricks to help you get started.</p></article>]]></description>
+            <link>https://thegrid.typeform.com/to/eGhdda?email=metanym@mac.com</link>
+            <guid isPermaLink="false">c882286c-1405-4646-addd-25a0b85c1a1d</guid>
+            <pubDate>Sun, 24 Apr 2016 15:17:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wild About Websites - Contact]]></title>
