@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.47738
 color:
-  saturation: 0.224347
+  saturation: 0.7625933
   brandStrength: 0.1296642
-  lightness: 0.7378731
+  lightness: 0.2434701
   brandColors:
     - '#FFFFFF'
     - '#03A7EF'
     - '#3FBCF3'
     - '#63C8F5'
     - '#9EDAF8'
-  rhythmicContrast: 0.270056
+  rhythmicContrast: 1
 layout_spectrum: 0.7257463
 name: Wild About Websites
