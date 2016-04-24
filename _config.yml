@@ -1,7 +1,3 @@
-name: Wild About Websites
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.47738
 collections:
   - index:
       path: /
@@ -14,28 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: A thing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.7625933
+  brandStrength: 0.1296642
+  lightness: 0.2434701
   brandColors:
     - '#FFFFFF'
     - '#03A7EF'
     - '#3FBCF3'
     - '#63C8F5'
     - '#9EDAF8'
-  brandStrength: 0.8125
-  lightness: 0.2434701
-  saturation: 0
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.47738
+layout_spectrum: 0.7653918
+name: Wild About Websites
