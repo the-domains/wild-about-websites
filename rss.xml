@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Wild About Websites]]></title>
         <description><![CDATA[Wild About Websites]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wild-about-websites/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 15:24:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 14:03:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wild-about-websites/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://wildaboutwebsites.com/wp-content/uploads/2015/09/monster-white-text.png">]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1075560354642cdfd70c9643998ec273136d1451.png" alt="" title="">]]></description>
             <link>http://wildaboutwebsites.com/wp-content/uploads/2015/09/monster-white-text.png</link>
             <guid isPermaLink="false">65b2df17-11bf-41bb-9bcf-8928905077eb</guid>
-            <pubDate>Wed, 27 Apr 2016 15:24:11 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 14:03:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
